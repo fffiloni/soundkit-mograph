@@ -1,0 +1,4 @@
+[
+  {"file": "sample.mp3", "pkey": 65, "anim": "anims/sample.json"},
+  {"file": "sample2.mp3", "pkey": 90, "anim": "anims/sample2.json"}
+]
