@@ -9,6 +9,7 @@ A soundkit keyboard that fires sounds and motion graphics, using P5.sound and bo
 * Start a simple server using python `python -m SimpleHTTPServer 5000`
 * Browse `localhost:5000`, yes it's black and fullscreen, don't panic.
 * Hit the A key or the Z key on your keyboard to see how it works.
+* Bonus: hit the 'Enter' key to go fullscreen
 
 ## How to make your own keyboard
 
