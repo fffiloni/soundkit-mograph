@@ -2,7 +2,14 @@
 
 A soundkit keyboard that fires sounds and motion graphics, using P5.sound and bodymovin.
 
-## Usage
+## First discover
+
+* Open terminal and type `cd '/path/to/soundkit-mograph'`
+* Start a simple server using python `python -m SimpleHTTPServer 5000`
+* Browse `localhost:5000`, yes it's black and fullscreen, don't panic.
+* Hit the A key or the Z key on your keyboard to see how it works.
+
+## How to make your own keyboard
 
 * Prepare your mp3 and drop them in the samples folder.
 * Export your animations to json from After Effect with bodymovin in the anims folder.
@@ -17,7 +24,7 @@ A soundkit keyboard that fires sounds and motion graphics, using P5.sound and bo
 * To learn how to export your motion graphics from AE: https://aescripts.com/bodymovin/
 * To learn how to use lottie's props: https://github.com/airbnb/lottie-web
 
-## Add a couple Sound/Motion
+## How to add a couple Sound/Motion
 For the examples, i only put two couples, one for the 'A' and one for the 'Z'.
 To fill the 24 remaining letters, open the `keyboard.json` file, and add a object like this:
 

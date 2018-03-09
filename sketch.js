@@ -5,7 +5,7 @@ let anim;
 
 //Loading informations from keyboard.json
 function preload () {
-  samplesToLoad = loadJSON('keyboard.json', makeKeyboard);
+  samplesToLoad = loadJSON('./keyboard.json', makeKeyboard);
 }
 
 //Callback in preload(), push sound obj in the working const array 'samples'
