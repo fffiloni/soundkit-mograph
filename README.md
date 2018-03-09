@@ -4,6 +4,7 @@ A soundkit keyboard that fires sounds and motion graphics, using P5.sound and bo
 
 ## First discover
 
+* Download or clone the repo
 * Open terminal and type `cd '/path/to/soundkit-mograph'`
 * Start a simple server using python `python -m SimpleHTTPServer 5000`
 * Browse `localhost:5000`, yes it's black and fullscreen, don't panic.
